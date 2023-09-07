@@ -1,1 +1,1 @@
-# alfa_ml_skills_requirements
+# Hard skills requirements for CV/NLP ML Engineer candidates
